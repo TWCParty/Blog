@@ -1,0 +1,17 @@
+categories: 分類
+tags: 標籤
+prev: 上頁
+next: 下頁
+comment: 評論
+archive_a: 封存
+archive_b: 封存：%s
+page: 第 %d 頁
+recent_posts: 最新文章
+
+Home: 首頁
+Archives: 封存
+Categories: 分類
+Tags: 標籤
+About: 關於
+Links: 連結
+RSS: 訂閱
