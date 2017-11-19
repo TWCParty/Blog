@@ -5,20 +5,20 @@ $articleTextColor = #424242
 
 article
   position relative
-  padding 8rem 0
+  padding 6rem 0
 
   a
     color $hackerRed
 
   &:not(:first-child):before
     content ''
-    width 150px
+    width 300px
     height 1px
-    background-color: #e0e0e0
+    border-top: 1px dashed $hackerRed
     position absolute
     top 0
     left 50%
-    margin-left -75px
+    margin-left -150px
 
   blockquote
     margin 6rem 2rem
